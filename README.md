@@ -1,4 +1,4 @@
 # DoS_attack
-A simple program that runs DoS on a single computer using long "ping" requests.
+A simple program that runs DoS attack using "ping" requests with lots of junk data.
 ### warning:
    *crashes WireShark!!!*
